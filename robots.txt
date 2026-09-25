@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.iashu.cn/sitemap.xml
